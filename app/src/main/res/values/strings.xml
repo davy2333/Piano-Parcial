@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Piano-Parcial</string>
+    <string name="tecla_do">tecla_Do</string>
+    <string name="tecla_fa">tecla_Fa</string>
+    <string name="tecla_la">tecla_La</string>
+    <string name="tecla_mi">tecla_Mi</string>
+    <string name="tecla_re">tecla_Re</string>
+    <string name="tecla_si">tecla_Si</string>
+    <string name="tecla_so">tecla_So</string>
 </resources>
